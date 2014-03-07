@@ -17,7 +17,7 @@ class YandexTranslate
     /**
      * Yandex Translate Api Key'ini Buraya Giriniz..!
      */
-    const api_key = 'trnsl.1.1.20140218T113820Z.d46b0be5ae38b8b1.d73436a7db6c8c3a3134bb02381b83487503975e';
+    const api_key = 'TRANSLATE API ANAHTARINIZI BURAYA GIRIN';
 
     /**
      * Sorgulama Sonucu Dönecek Olan Verinin Türü
